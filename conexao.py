@@ -17,4 +17,4 @@ online = coneçao.is_connected()
 if not online:
     print("Banco de Dados não conectou.")
     
-else: print("Banco de Dados não conectou.")
+else: print("Banco de Dados conectou.")
