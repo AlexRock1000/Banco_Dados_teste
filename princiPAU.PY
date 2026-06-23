@@ -20,7 +20,7 @@ def cadastrar():
 
 def mostrar():
     for produto in listar_produtos():
-        produto.mostrazar()
+        produto.mostrar()
         
 while True:
     menu()
